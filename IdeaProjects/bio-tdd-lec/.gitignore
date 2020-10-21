@@ -1,0 +1,11 @@
+# MAC
+.DS_Store
+
+#intelij
+.idea/*
+*.iml
+
+#Complied out
+*.class
+out/*
+
