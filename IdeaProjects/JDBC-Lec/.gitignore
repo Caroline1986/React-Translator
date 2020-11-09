@@ -1,4 +1,10 @@
+# MacOS
+.DS_Store
+
+# IntelliJ
 .idea/*
-java-fundamentals-assessment.iml
-**.iml
-**.DS_Store
+*.iml
+
+# Compiled output
+*.class
+out/*
